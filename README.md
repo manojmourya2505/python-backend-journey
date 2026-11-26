@@ -8,6 +8,7 @@ In this series I break down one backend topic a day, in 5 minutes, with real, wo
 | Day | Topic | Video | Code |
 |---|---|---|---|
 | 1 | What is FastAPI? Your first API in 5 minutes | [Watch](https://www.youtube.com/@buildwith_manoj) | [day01-intro-to-fastapi](day01-intro-to-fastapi/) |
+| 2 | Path & Query Parameters | [Watch](https://www.youtube.com/@buildwith_manoj) | [day02-path-and-query-params](day02-path-and-query-params/) |
 
 ## Run any day's example
 
